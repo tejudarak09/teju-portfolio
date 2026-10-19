@@ -129,28 +129,28 @@ export const journeyEntries: JourneyEntry[] = [
     description:
       "Ingested 50,000 retail orders into PostgreSQL, orchestrated ELT with Airflow into star-schema fact and dimension tables, with 38 automated data-quality checks.",
     tags: ["Python", "SQL", "Airflow", "PostgreSQL"],
-    year: "2025",
+    year: "2023",
   },
   {
     title: "Real-Time Financial Transactions Pipeline",
     description:
       "Streamed financial events through Kafka and PySpark Structured Streaming with rule-based fraud detection, reconciled exactly once into a partitioned S3 lake.",
     tags: ["Python", "Kafka", "PySpark", "AWS S3"],
-    year: "2025",
+    year: "2023",
   },
   {
     title: "Retail Business Intelligence & Profitability Analysis",
     description:
       "In development — retail sales analysis with SQL and interactive Power BI dashboards for revenue and profitability patterns.",
     tags: ["SQL", "Power BI", "DAX", "Excel"],
-    year: "In progress",
+    year: "2024",
   },
   {
     title: "Customer Retention & Marketing Campaign Analytics",
     description:
       "In development — customer EDA with Python and Pandas, RFM segmentation and cohort analysis in Power BI.",
     tags: ["Python", "SQL", "Power BI", "Pandas"],
-    year: "In progress",
+    year: "2025",
   },
 ];
 
